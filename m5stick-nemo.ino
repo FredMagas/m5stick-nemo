@@ -13,8 +13,8 @@ String buildver="2.2.1";
 #define FGCOLOR GREEN
 
 // -=-=- NEMO Portal Language -=- Thanks, @marivaaldo! -=-=-
-#define LANGUAGE_EN_US
-//#define LANGUAGE_PT_BR
+//#define LANGUAGE_EN_US
+#define LANGUAGE_PT_BR
 
 #if defined(STICK_C_PLUS)
   #include <M5StickCPlus.h>
